@@ -8,7 +8,7 @@
 [fox run](http://htmlpreview.github.io?https://github.com/lc-dmx/SVG/blob/master/html5-svg-fox-run-animation/index.html)
 
 
-[smile faces](http://htmlpreview.github.io?https://github.com/lc-dmx/SVG/blob/master/html5-svg-smile-faces/index.html)
+[smile faces](http://www.html5tricks.com/demo/html5-svg-smile-faces/index.html)
 
 
 [tab slider](http://htmlpreview.github.io?https://github.com/lc-dmx/SVG/blob/master/html5-svg-tab-slider/index.html)

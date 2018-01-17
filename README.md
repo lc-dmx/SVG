@@ -16,4 +16,4 @@
 
 [icons](http://htmlpreview.github.io?https://github.com/lc-dmx/SVG/blob/master/svg-icons-with-patterns/index.html)
 
-[butterflies](http://htmlpreview.github.io?https://drive.google.com/drive/u/0/folders/1eTOlbjhwKLlp0sK9Sh2xCEQB9DeHV_11/index.html)
+[butterflies](http://htmlpreview.github.io?https://drive.google.com/drive/u/0/folders/1eTOlbjhwKLlp0sK9Sh2xCEQB9DeHV_11)

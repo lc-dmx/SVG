@@ -1,6 +1,6 @@
 # SVG
 
-[butterflies](http://htmlpreview.github.io/?https://github.com/lc-dmx/SVG/blob/master/html5-3d-butterflies/index.html)
+[butterflies](http://htmlpreview.github.io/?https://github.com/lc-dmx/SVG/blob/master/html5-butterflies/index.html)
 
 [breathing tree](http://htmlpreview.github.io/?https://github.com/lc-dmx/SVG/blob/master/css3-breathing-tree/index.html)
 
